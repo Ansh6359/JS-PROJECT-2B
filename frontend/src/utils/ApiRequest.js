@@ -1,4 +1,4 @@
-const host = "mongodb+srv://ansh32084:1234@cluster0.l0jt2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const host = "https://js-project-2b-1-backend.onrender.com";
 export const setAvatarAPI = `${host}/api/auth/setAvatar`;
 export const registerAPI = `${host}/api/auth/register`;
 export const loginAPI = `${host}/api/auth/login`;
